@@ -1,0 +1,9 @@
+name,input_compound,start_time,end_time,type,experiment
+NaOH Isolation,['NaOH'],3420,8820,Isolation,FAD017
+glycolaldehyde Combined,"['NaOH', 'glycolaldehyde']",10620,16020,Combined,FAD017
+DHA Combined,"['NaOH', 'DHA']",17820,23220,Combined,FAD017
+formaldehyde Combined,"['NaOH', 'formaldehyde']",25020,30420,Combined,FAD017
+glycolaldehyde Isolation,['glycolaldehyde'],35420,40820,Isolation,FAD018
+DHA Isolation,['DHA'],42620,48020,Isolation,FAD018
+formaldehyde Isolation,['formaldehyde'],49820,55220,Isolation,FAD018
+CaCl2 Combined,"['NaOH', 'CaCl2']",57020,62420,Combined,FAD018

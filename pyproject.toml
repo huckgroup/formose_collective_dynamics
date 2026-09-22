@@ -1,0 +1,25 @@
+[project]
+name = "formose_collective_dynamics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = [
+  "amici==1.1.0",
+  "kaleido==1.2.0",
+  "libroadrunner==2.7.0",
+  "matplotlib==3.10.6",
+  "pyarrow==25.0.1",
+  "plotly==6.3.0",
+  "pyqt5==5.15.11",
+  "scikit-learn==1.9.1",
+  "scipy==1.17.1",
+  "seaborn==0.13.2",
+  "numpy==1.26.4",
+  "pandas==3.0.5",
+  "tellurium==2.2.11",
+  "umap-learn==0.5.9.post2",
+]
+
+[tool.uv.workspace]
+members = ["formose_collective_dynamics"]

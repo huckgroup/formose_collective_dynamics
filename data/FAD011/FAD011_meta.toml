@@ -1,0 +1,20 @@
+start_time = 2025-02-06 11:48:27+01:00
+time_delay = 51
+inputs = "a"
+measurement_start_time = 2025-02-06 11:48:28.798000+01:00
+flow_time_correction = -49.202
+temperature_profile_time_correction = 5431390.509237051
+flow_timings = [
+    [
+        2220,
+        7620,
+    ],
+    [
+        8520,
+        13920,
+    ],
+    [
+        14820,
+        20220,
+    ],
+]
